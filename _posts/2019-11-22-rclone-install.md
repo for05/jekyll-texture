@@ -4,9 +4,8 @@ title: "Rclone的安裝及掛載使用"
 date: 2019-11-22 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+`Rclone` 是一款命令行工具,支持在不同對象儲存,網盤之間上傳,下載以及同步數據.    
 
-`Rclone` 是一款命令行工具,支持在不同對象儲存,網盤之間上傳,下載以及同步數據.
 ## RClone項目官網
 
 Rclone官網：[https://rclone.org](https://rclone.org)

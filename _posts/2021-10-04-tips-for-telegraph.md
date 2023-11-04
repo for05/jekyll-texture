@@ -4,9 +4,8 @@ title: "如何优雅地使用 Telegraph 发布匿名的精美文章"
 date: 2021-10-04 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+[Telegraph](https://telegra.ph/) 一个极简的内容发布工具（[Minimalist publishing tool](https://telegram.org/blog/telegraph)） ，不需要注册账号与下载软件，即可匿名发布文章。  
 
-[Telegraph](https://telegra.ph/) 一个极简的内容发布工具（[Minimalist publishing tool](https://telegram.org/blog/telegraph)），不需要注册账号与下载软件，即可匿名发布文章。
 ## 用法一
 
 1. 在手机或电脑的浏览器的地址栏输入 `telegra.ph`

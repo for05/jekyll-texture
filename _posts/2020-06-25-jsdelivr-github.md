@@ -4,11 +4,10 @@ title: "使用 jsDelivr CDN 加速 Github 仓库的图片"
 date: 2020-06-25 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
-
-![](/images/2020/06/jsdelivr/Github+jsDelivr.png#alt=Github%2BjsDelivr)
+![](/images/2020/06/jsdelivr/Github+jsDelivr.png#alt=Github%2BjsDelivr)  
 
 jsDelivr 是国外的一家优秀的公共 CDN 服务提供商，也是首个「打通中国大陆（网宿公司运营）与海外的免费 CDN 服务」。
+
 jsDelivr 有一个十分好用的功能——**它可以加速 Github 仓库的文件**。我们可以借此搭建一个免费、全球访问速度超快的图床。
 
 **声明：静态文件主要是缓存在 jsDelivr 的 CDN 节点上，确保 GitHub 承受最小的负载，并且你还可以从 GitHub 仓库获得快速简便的静态文件托管。**

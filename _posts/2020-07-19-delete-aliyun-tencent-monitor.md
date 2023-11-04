@@ -4,9 +4,8 @@ title: "彻底卸载阿里云服务器上的各种监控服务"
 date: 2020-07-19 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+用过阿里云服务器（ECS、轻量应用服务器）的人应该都知道，阿里云提供的系统镜像里预装了它的各种监控服务。  
 
-用过阿里云服务器（ECS、轻量应用服务器）的人应该都知道，阿里云提供的系统镜像里预装了它的各种监控服务。
 这些监控服务的存在使得人们可以直接在控制台看到当前系统的状态，某种程度上来说确实方便了服务器的管理。但是对于我们这种“爱折腾党”，基本没有用到这些服务的时候，而且天天被这些监控盯着还总有种被偷窥的感觉。
 
 所以在这里介绍一下怎么卸载阿里云服务器上的各种监控服务。

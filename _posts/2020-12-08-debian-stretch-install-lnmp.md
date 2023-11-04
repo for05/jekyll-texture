@@ -4,8 +4,6 @@ title: "Debian Stretch详细手动安装LNMP环境"
 date: 2020-12-08 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
-
 本次搭建的环境各个软件版本号分别为：
 
 Debian9（Linode）
@@ -15,6 +13,7 @@ Nginx：1.14.0
 MySQL：8.0（据说性能提升了N倍）
 
 PHP：7.0.30
+
 Debian9默认内核应该都是4.9以上了，所以可以在开始之前先开一波BBR，优化下网络：
 
 ```

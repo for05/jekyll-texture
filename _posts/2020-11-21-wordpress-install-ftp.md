@@ -4,9 +4,8 @@ title: "WordPress中安装插件需要FTP怎么办？"
 date: 2020-11-21 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+在初次搭建wordpress成功后,博主想安装wordpress中有趣的插件时缺发现需要FTP服务，其实不用真的搭建了一个FTP服务器  
 
-在初次搭建wordpress成功后,博主想安装wordpress中有趣的插件时缺发现需要FTP服务，其实不用真的搭建了一个FTP服务器
 这只是WordPress，留下的坑,那么,怎么绕过这道程序呢.其实很简单,我们只需在wordpress根目录找到一个
 
 wp-config.php,添加以下代码:

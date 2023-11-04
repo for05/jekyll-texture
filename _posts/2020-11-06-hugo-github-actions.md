@@ -4,9 +4,8 @@ title: "Hugo + Github Actions 实现自动化部署"
 date: "2020-11-06 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+不折腾点东西总觉得浑浑噩噩，折腾点东西搞得脑袋晕晕乎乎！  
 
-不折腾点东西总觉得浑浑噩噩，折腾点东西搞得脑袋晕晕乎乎！
 ## 上传 Hugo 源文件
 
 （注：如已把 Hugo 程序 push 到 GitHub 上，直接跳过看下一步。）

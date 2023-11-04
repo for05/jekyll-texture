@@ -4,9 +4,8 @@ title: "在 Windows 11/10 中卸载 Microsoft Edge 浏览器的简便方法"
 date: 2022-03-02 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+Microsoft Edge 预装为 Windows 11 和 Windows 10 中的默认 Web 浏览器。当您尝试使用控制面板或设置应用程序卸载 Microsoft Edge 时，您会发现卸载选项丢失或显示为灰色。 在本教程中，Secy将向您展示一种在 Windows 11 / 10 中卸载 Microsoft Edge 的简单方法。  
 
-Microsoft Edge 预装为 Windows 11 和 Windows 10 中的默认 Web 浏览器。当您尝试使用控制面板或设置应用程序卸载 Microsoft Edge 时，您会发现卸载选项丢失或显示为灰色。 在本教程中，Secy将向您展示一种在 Windows 11 / 10 中卸载 Microsoft Edge 的简单方法。
 ![](/images/2022/03/edge/edge-1.png#alt=%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8D%B8%E8%BD%BD%20Microsoft%20Edge%20%E6%B5%8F%E8%A7%88%E5%99%A8)
 
 ## 如何在 Windows 11 / 10 中卸载 Microsoft Edge

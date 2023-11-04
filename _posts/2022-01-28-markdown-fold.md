@@ -4,9 +4,8 @@ title: "Markdown代码折叠与收起"
 date: 2022-01-28 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+有的时候，代码太长，全部展开显得很臃肿，所以我们可以采用代码折叠的方式。  
 
-有的时候，代码太长，全部展开显得很臃肿，所以我们可以采用代码折叠的方式。
 Markdown很方便，但基本语法有些不足：比如无法使用折叠语法，无法让文字有不同的颜色。
 
 这些功能可以实现，不过需要使用 html 语法进行扩展。这篇文章主要是整理一下这些技巧，方便更好的使用。

@@ -4,9 +4,8 @@ title: "Hexo + Github Pages建立一個個人獨立博客"
 date: 2018-05-20 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+`Hexo` 是一個快速,簡潔,高效的博客框架.  
 
-`Hexo` 是一個快速,簡潔,高效的博客框架.
 `Hexo` 使用 `Markdown` 解析文章,並在幾秒鐘內就可以生成帶有精美主題的靜態網頁.
 
 ## 準備環境

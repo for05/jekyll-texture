@@ -4,9 +4,8 @@ title: "Nginx開啟目錄瀏覽配置文件"
 date: 2019-11-22 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+出於安全考慮，`Nginx`默認是沒有開啟目錄瀏覽的，我們搭建自己軟件倉庫的時候可能需要目錄瀏覽的支持，列出當前目錄下的所有文件，便於下載.  
 
-出於安全考慮，`Nginx`默認是沒有開啟目錄瀏覽的，我們搭建自己軟件倉庫的時候可能需要目錄瀏覽的支持，列出當前目錄下的所有文件，便於下載.
 只需要將下面幾行配置文件加入`Nginx`配置的`Server`段內：
 
 ```

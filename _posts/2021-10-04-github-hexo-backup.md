@@ -5,9 +5,8 @@ date: 2021-10-04 00:00:00
 ---
 
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+`Hexo` 是一个快速,简洁,高效的博客框架.  
 
-`Hexo` 是一个快速,简洁,高效的博客框架.
 `Hexo` 使用 `Markdown` 解析文章,并在几秒钟内就可以生成带有精美主题的静态网页.
 
 ## 准备

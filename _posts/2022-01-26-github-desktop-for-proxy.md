@@ -4,11 +4,10 @@ title: "如何给Github Desktop设置代理"
 date: 2022-01-26 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+使用Github Desktop克隆项目时只有十几、几十k的速度，一个30MB的项目要等半天。  
 
-使用Github Desktop克隆项目时只有十几、几十k的速度，一个30MB的项目要等半天。
+于是寻找解决办法，本来以为是很简单的事情，却花费了超出预期的时间。  
 
-于是寻找解决办法，本来以为是很简单的事情，却花费了超出预期的时间。
 故记录下来
 
 - 

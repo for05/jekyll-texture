@@ -4,9 +4,8 @@ title: "在 Debian 上安裝 Gitea"
 date: 2020-01-07 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+`Gitea` 是 `Git` 支持的另一個開源自託管版本控制系統, `Gitea` 是用 `Golang` 編寫的是一個可以在任何平台上託管的輕量級解決方案.  
 
-`Gitea` 是 `Git` 支持的另一個開源自託管版本控制系統, `Gitea` 是用 `Golang` 編寫的是一個可以在任何平台上託管的輕量級解決方案.
 前提條件
 
 - 新建Debian 9實例

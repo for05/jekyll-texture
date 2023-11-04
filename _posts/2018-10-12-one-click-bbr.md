@@ -1,21 +1,11 @@
 ---
-
-
+layout: post
 title: "Debian 一键安装 Google BBR"
+date: 2018-10-12 00:00:00
+---
 
-slug: "one-click-bbr"
+`Google BBR` 是 `Google` 提出的一種新的擁塞控制算法,可使 `Linux` 服務器顯著提高吞吐量並減少 `TCP` 連接延遲.  
 
-date: "2018-10-12"
-
-draft: false
-
-tags: ["BBR", "Debian"]
-
-author: "Secy"
-
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
-
-`Google BBR` 是 `Google` 提出的一種新的擁塞控制算法,可使 `Linux` 服務器顯著提高吞吐量並減少 `TCP` 連接延遲.
 ## 開源地址
 
 [https://github.com/google/bbr](https://github.com/google/bbr)

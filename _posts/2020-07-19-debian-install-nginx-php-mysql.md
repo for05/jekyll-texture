@@ -4,9 +4,8 @@ title: "Debian stretch/ Debian jessie 使用源安装 LEMP 教程"
 date: 2020-07-19 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+Debian 9 代号 [Stretch](https://www.debian.org/releases/stretch/) 在 2017 年 6 月 18 号正式发布，由于是最新的系统，原来基于 Dotdeb 安装最新 LEMP 的教程已经过时，本文将介绍使用官方源和第三方源在 Debian 9.x Stretch 安装最新版 LEMP 的教程，并且可以自行选择 PHP 版本。  
 
-Debian 9 代号 [Stretch](https://www.debian.org/releases/stretch/) 在 2017 年 6 月 18 号正式发布，由于是最新的系统，原来基于 Dotdeb 安装最新 LEMP 的教程已经过时，本文将介绍使用官方源和第三方源在 Debian 9.x Stretch 安装最新版 LEMP 的教程，并且可以自行选择 PHP 版本。
 **PS：本文同时适用于 Debian 8.x Jessie 如果您的服务商暂未提供 Debian 9.x 也可以凑合一用**
 
 以下操作推荐在 root 用户下完成，请使用 `sudo -i` 切换到 root 用户进行操作

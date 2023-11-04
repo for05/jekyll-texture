@@ -4,9 +4,8 @@ title: "AdGuard 过滤规则分享"
 date: 2021-05-17 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+我和很多人一样一开始用 Maxthon 傲游浏览器，然后见证了国内第三方浏览器的群雄逐鹿到只剩下 360 和腾讯，现在也基本回归 Google Chrome，广告过滤我也是一路从 AdBlock Plus 到 uBlock Origin 然后是现在的 AdGuard，无论选择哪种广告过滤方案，持续更新的过滤规则始终是核心。  
 
-我和很多人一样一开始用 Maxthon 傲游浏览器，然后见证了国内第三方浏览器的群雄逐鹿到只剩下 360 和腾讯，现在也基本回归 Google Chrome，广告过滤我也是一路从 AdBlock Plus 到 uBlock Origin 然后是现在的 AdGuard，无论选择哪种广告过滤方案，持续更新的过滤规则始终是核心。
 > AdGuard 过滤规则分享
 
 

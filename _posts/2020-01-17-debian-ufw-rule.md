@@ -4,9 +4,8 @@ title: "Debian/Ubuntu 中安裝和配置 UFW"
 date: 2020-01-17 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+UFW 是一個 Arch Linux、Debian 或 Ubuntu 中管理防火牆規則的前端，可大大簡化防火牆的配置過程.  
 
-UFW 是一個 Arch Linux、Debian 或 Ubuntu 中管理防火牆規則的前端，可大大簡化防火牆的配置過程.
 ## 安裝 UFW
 
 如還沒有安裝，可以使用 apt 命令來安裝

@@ -4,9 +4,8 @@ title: "腾讯云SCF云函数无服务器部署OneDrive分享网盘"
 date: 2021-02-27 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+OneDrive的网盘程序介绍过很多款,但是都是需要VPS服务器来部署,本文将介绍无需服务器,使用腾讯云SCF云函数服务,即可在云端部署你的OneDrive分享云盘.  
 
-OneDrive的网盘程序介绍过很多款,但是都是需要VPS服务器来部署,本文将介绍无需服务器,使用腾讯云SCF云函数服务,即可在云端部署你的OneDrive分享云盘.
 > 本文为 [Stille](https://www.ioiox.com/stille.html) 原创文章.经实践,测试,整理发布.如需转载请联系作者获得授权,并注明转载地址.
 
 

@@ -4,9 +4,8 @@ title: "在 Debian（Nginx）下構建 Webdav"
 date: 2019-08-22 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+本文介紹瞭如何在 `Debian` 環境中構建 `Webdav` 服務。  
 
-本文介紹瞭如何在 `Debian` 環境中構建 `Webdav` 服務。
 ## 安裝Nginx
 
 安裝 `Nginx` 服務

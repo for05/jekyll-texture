@@ -4,12 +4,11 @@ title: "在Chrome中设置Google搜索为NoCountryRedirect"
 date: 2021-04-14 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+添加代理来科学上网时，使用Google进行搜索，Chrome浏览器默认会重定向到代理国所在的Google域名。  
 
-添加代理来科学上网时，使用Google进行搜索，Chrome浏览器默认会重定向到代理国所在的Google域名。
-比如`https://www.google.co.kr/`,`https://www.google.co.jp/`等, 已经在`https://www.google.com`登录的Google账号就还得重登, 极度烦躁。
+比如 `https://www.google.co.kr/` , `https://www.google.co.jp/` 等, 已经在`https://www.google.com` 登录的Google账号就还得重登, 极度烦躁。
 
-下面是几个固定使用`https://www.google.com`来进行搜索的方法
+下面是几个固定使用 `https://www.google.com` 来进行搜索的方法
 
 ## 实现方式
 
@@ -17,7 +16,7 @@ date: 2021-04-14 00:00:00
 
 ### 固定访问地址
 
-使用`google.com/ncr`来访问Google，ncr是NoCountryRedirect的缩写，此时Google会重定向请求到主站`https://www.google.com/`，而不会定向到访问IP所在的Google域名了
+使用`google.com/ncr`来访问Google，ncr是NoCountryRedirect的缩写，此时Google会重定向请求到主站 `https://www.google.com/` ，而不会定向到访问IP所在的Google域名了
 
 ### 修改Chrome设置
 

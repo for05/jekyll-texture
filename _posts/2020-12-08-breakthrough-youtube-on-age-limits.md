@@ -4,9 +4,8 @@ title: "突破 YouTube 观影年龄的限制"
 date: 2020-12-08 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+YouTube 对视频进行了分级，某些“少儿不宜”的影片需要对用户的年龄进行判断，用户需要设置出生年月、提供手机验证等程序未免繁琐。本文介绍了一种简单的突破 YouTube 观影年龄的限制的方法。  
 
-YouTube 对视频进行了分级，某些“少儿不宜”的影片需要对用户的年龄进行判断，用户需要设置出生年月、提供手机验证等程序未免繁琐。本文介绍了一种简单的突破 YouTube 观影年龄的限制的方法。
 ## 年龄限制
 
 比如，我们想研究下 `http://www.youtube.com/watch?v=dadasdadasd` 这个影片到底是个什么鬼，当我们试图观看一部“少儿不宜”的影片时，它提示要进行“验证年龄”。尼玛，因为我翻了墙去到了韩国，竟然要我提供韩国的手机号，我去哪找棒子的手机。

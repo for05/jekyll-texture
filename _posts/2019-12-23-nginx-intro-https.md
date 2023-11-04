@@ -4,9 +4,8 @@ title: "Nginx 配置 HTTPS A+"
 date: 2019-12-23 00:00:00
 ---
 
-## contentCopyright: '[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)'
+![](/images/2019/12/nginx-intro-https/nginx-intro-https-1.png#alt=Nginx)  
 
-![](/images/2019/12/nginx-intro-https/nginx-intro-https-1.png#alt=Nginx)
 测试地址：[https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/?utm_source=textarea.com&utm_medium=textarea.com&utm_campaign=article)
 
 nginx 配置，只贴出 SSL 相关，需要将配置放到 server {} 位置。
